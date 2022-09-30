@@ -1,0 +1,26 @@
+HASH MD5 Adjunto:
+*******************************
+
+ddc607bb993b94c543c63808bef682a
+862adb87b0b894d450f8914a353e3e9c
+a1ae8b0d794af648908e0345204e192
+9d0364e1f625edb286b0d
+_
+
+Hashes MD5 de los ejecutables y detalles de las cuentas de correo electrónico de los atacantes utilizadas para enviar y recibir datos robados por la muestra:
+
+64011a7871abb873c822b8b99082e8ab
+info@essentialapparatus.co.ke
+Contraseña: Info@2018
+
+********************
+
+sales1.nuozhongsteel@gmail.com
+Servidor de correo: mail.essentialapparatus.co.ke:587
+
+b012cb8cfee0062632817d12d43f98b4
+Correo de: quality@keeprojects.in
+Contraseña: quality#@!
+
+Correo a: quality@keeprojects.in
+Servidor de correo: mail.keeprojects.in:587
