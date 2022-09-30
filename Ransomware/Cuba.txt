@@ -67,8 +67,6 @@ Filenames:
 151.ps1 
 Kurva.ps1 
 
-!!FAQ for Decryption!!.txt (Ransom note) Exempted 
-
 
 File Types 
 ************
