@@ -9,8 +9,8 @@ MD5: 6360b252b21fe015d667b093f6497e33
 SHA256: 1de475e958d7a49ebf4dc342f772781a97ae49c834d9d7235546737150c56a9c
 
 
-Email Address:
-***************
+1.-   Email Address:
+      ***************
 
 ShingXuan7110@protonmail.com
 scanjikoon@yahoo.com
@@ -26,8 +26,8 @@ alexeyberdin437@gmail.com
 alexeyberdin38@gmail.com
 alexeyberbi@gmail.com
 
-IP ATTACKS:
-***********
+2.-   IP ATTACKS:
+      ***********
 
 185.138.164.18
 185.172.129.215
@@ -61,3 +61,13 @@ IP ATTACKS:
 89.40.10.25
 5.45.65.52
 79.141.160.43 (URL:  izugz.envisting.xyz)
+
+
+3.-   Bitcoin Addresses:**
+      *****************************
+
+19kcqKevFZhiX7NFLa5wAw4JBjWLcpwp3e
+1CG8RAqNaJCrmEdVLK7mm2mTuuK28dkzCU
+151Ls8urp6e2D1oXjEQAkvqogSn3TS8pp6
+
+
