@@ -1,0 +1,26 @@
+Beefeater indicators:
+**********************
+
+
+IP-DST:
+**********
+
+185.136.168.184
+146.70.121.116
+146.70.87.191
+141.95.162.93
+47.112.105.131
+37.120.198.251
+23.19.58.129
+
+DOMAIN:
+*********
+
+hidryengine.com
+xylaohu.com
+oblastmoscow.com
+gurenunico.com
+freecaches.com
+webpayshipping.com
+nativecd.com
+bebaslepase.com
