@@ -1,0 +1,40 @@
+blackpink.301@outlook[.]com
+alibaba.113@outlook[.]com
+alibaba.113@outlook[.]com.vn
+blackred.113@outlook[.]com
+lanhuong.jsc@outlook[.]com
+nphuongmai.97@outlook[.]com
+
+
+FileHash-SHA256	e45df7418ca47a9a4c4803697f4b28c618469c6e5a5678213ab81df9fcc9fd51				
+FileHash-SHA256	e3181ee97d3ffd31c22c2c303c6e75d0196912083d0c21536e5833ee7d108736				
+FileHash-SHA256	c60f778641942b7b0c00f3214211b137b683e8296abb1905d2557bfb245bf775				
+FileHash-SHA256	9976625b5a3035dc68e878ad5ac3682ccb74ef2007c501c8023291548e11301a				
+FileHash-SHA1	d8df672ecd9018f3f2d23e5c966535c30a54b71d				
+FileHash-SHA1	24f65e0ee158fc63d98352f9828d014ab239ae16				
+FileHash-SHA1	18ca159183c98f52df45d3e9db0087e17596a866				
+FileHash-SHA1	142f909c26bd57969ef93d7942587cdf15910e34				
+FileHash-MD5	926027f0308481610c85f4e3e433573b			
+FileHash-MD5	7eaf1b65004421ac07c6bb1a997487b2				
+FileHash-MD5	732091ad428419247bce87603ea79f00				
+FileHash-MD5	728afa40b20df6d2540648ef845eb754
+
+
+Herramientas que utiliza Dark Pink:
+************************************
+Desarrollo propio:
+- Ctealer y Cucky
+(la información recopilada se guarda en la carpeta %TEMP%\backuplog) y roba información de los siguientes navegadores: Chrome, MS Edge, CocCoc, Chromium, Brave, Atom, Uran, Sputnik, Slimjet, Epic Privacy, Amigo, Vivaldy, Kometa, Comodo, Nichrome, Maxthon, Comodo Dragon, Avast Navegador, Navegador Yandex.
+
+Herramientras gratuitas:
+- PowerSploit/Get-MicrophoneAudio
+(Para grabar el audio del micrófono de los equipos infectados)
+
+Paises afectados :
+********************
+-Vietnam
+-Bosnia y Herzegovina
+-Indonesia
+-Camboya
+-Malasia
+-Filipinas
