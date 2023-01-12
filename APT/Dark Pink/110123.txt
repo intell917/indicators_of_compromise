@@ -38,3 +38,20 @@ Paises afectados :
 -Camboya
 -Malasia
 -Filipinas
+
+ATT&CK IDS:
+***************
+T1547 - Boot or Logon Autostart Execution
+T1566 - Phishing
+T1123 - Audio Capture
+T1574 - Hijack Execution Flow
+T1113 - Screen Capture
+T1555 - Credentials from Password Stores
+T1082 - System Information Discovery
+T1059 - Command and Scripting Interpreter
+T1127 - Trusted Developer Utilities Proxy Execution
+T1027 - Obfuscated Files or Information
+T1176 - Browser Extensions
+T1140 - Deobfuscate/Decode Files or Information
+T1546 - Event Triggered Execution
+T1102 - Web Service
