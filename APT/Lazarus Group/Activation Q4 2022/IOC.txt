@@ -1,0 +1,215 @@
+From Lazarus''No Pineapple''
+Zinc Hidden Cobra Lazarus Pineapple APT38 The North Korean hacker group Lazarus APT 38 ,has been active since 2009. They were a group of criminals
+with an indeterminate number of criminals. However, due to their intended nature, methods, and threats on the web, they were classified as an Advanced 
+Persistent Threat. The cybersecurity community gathers these under other names such as Zinc and Hidden Cobra.
+
+
+CVE ATTACKS:
+***************
+
+CVE-2022-41352
+CVE-2021-34480
+CVE-2020-1380
+CVE-2017-0199
+CVE-2022-41128
+CVE-2022-0609
+CVE-2021-44228
+CVE-2017-16238
+CVE-2021-4034
+CVE-2021-44731
+CVE-2021-25325.md
+CVE-2021-30657
+CVE-2017-0199
+CVE-2021-25323
+CVE-2015-2051
+CVE-2014-2962
+CVE-2018-2025010
+CVE-2021-33766
+CVE-2022-27925
+CVE-2014-9583
+CVE-2020-12812
+CVE-2021-34470
+CVE-2021-31206
+CVE-2013-5947
+CVE-2019-16098
+CVE-2013-7389
+CVE-2022-41973
+CVE-2022-23093
+CVE-2021-34527
+CVE-2017-10271
+CVE-2015-0554
+CVE-2018-13379
+CVE-2014-1225
+CVE-2021-34473
+CVE-2012-5687
+CVE-2022-2827
+CVE-2022-32917
+CVE-2014-8361
+CVE-2021-34523
+CVE-2021-26855
+CVE-2022-41974
+CVE-2022-40242
+CVE-2020-0688
+cve-2021-25323.md
+CVE-2021-21551
+CVE-2021-45046
+CVE-2019-5591
+CVE-2022-40259
+CVE-2021-44228
+CVE-2021-25324.md
+CVE-2022-37042
+CVE-2021-25324
+CVE-2021-25325
+CVE-2018-2025010
+CVE-2018-19320
+CVE-2021-45105
+CVE-2021-33768
+CVE-2022-3328
+CVE-2018-20250
+CVE-2022-41040
+CVE-2017-0199
+CVE-2014-4019
+CVE-2021-31207
+CVE-2015-7248
+CVE-2018-10562
+CVE-2022-41082
+CVE-2018-20250
+CVE-2022-0609
+CVE-2021-31196
+CVE-2017-11882
+
+Sender Emails:
+**************
+
+shannon@litegait.com 
+world.health.org@whoint.ml 
+submit@securielite.com 
+osman@securielite.com 
+contact@securielite.com 
+us-cert@dhs.ic.gov 
+phynk109@gmail.com 
+werbits@onionmail.org 
+us-cert@dhs.sgov.gov 
+cymulate@sfha.org 
+buysafety@onionmail.org 
+contact@cyber.gc.ca 
+contact@securielite.com 
+osman@securielite.com 
+submit@securielite.com 
+haejin.lee0531@gmail.com 
+
+
+All Aliases for Asset:
+*********************
+
+Operation Troy
+Operation AppleJeus
+Hidden Cobra
+NICKEL GLADSTONE
+Bluenoroff
+APT 38
+Operation GhostSecret
+Unit 121
+Labyrinth Chollima
+Dark Seoul
+Subgroup: Andariel
+Operation DarkSeoul
+Zinc
+Group 77
+APT38
+Subgroup: Bluenoroff
+OperationTroy
+G0082
+NewRomanic Cyber Army Team
+Guardian of Peace
+ATK117
+Nickel Academy
+Stardust Chollima
+Hastati Group
+Andariel
+ATK3
+COVELLITE
+Lazarus
+Bureau 121
+APT-C-26
+GOP
+G0032
+Whois Hacking Team
+Appleworm
+WHOis Team
+
+SOURCE IP
+***********
+
+185.62.58.6
+172.93.144.166
+51.255.155.2
+64.44.101.59
+46.246.1.134
+146.70.93.3
+185.214.10.88
+176.31.69.130
+217.182.230.0
+80.255.3.85
+121.127.22.19
+149.56.123.150
+69.61.59.220
+64.44.167.250
+23.29.115.171
+204.12.225.19
+64.188.27.213
+192.34.109.180
+23.82.140.102
+162.248.244.162
+185.156.172.75
+149.56.180.241
+96.8.121.15
+96.44.166.189
+104.168.160.59
+185.231.222.41
+194.15.112.51
+45.135.167.132-
+64.188.19.12
+37.120.222.36
+185.236.203.211
+23.227.199.96
+37.72.175.226
+
+
+DOMAIN CONECTION:
+*******************
+	
+indagator.club		
+craypot.live
+crabbedly.club
+ronqingedu.com
+zumetrainer.com
+eartheupside.com
+insightsarsoft.com
+acnnear.com
+elegiciouz.com
+kelainhaty.com
+lunakverky.com
+rawmico.com
+zometrainer.com
+danjgotz.com
+porthebhk.com
+vraynet.com
+michelguides.com
+swanportaion.com
+absulotit.com
+zummarkets.com
+prakruthiv.com
+tamashche.com
+addtory.com
+fushichaliar.com
+gearnichoose.com
+turkiyeeksenio.com
+olasorgh.com
+aqirtant.com
+coldspringpte.com
+driveencryptor.com
+afromecar.com
+visualartworldzone.com
+
+
