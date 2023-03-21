@@ -1,0 +1,56 @@
+Since the start of the Russo-Ukrainian conflict, Kaspersky researchers and the international community at large have identified a significant number of 
+cyberattacks executed in a political and geopolitical context. We previously published an overview of cyber activities and the threat landscape related
+to the conflict between Russia and Ukraine and continue to monitor new threats in these regions.
+
+HAshes:
+*******************
+
+0a95a985e6be0918fdb4bfabf0847b5a
+1032986517836a8b1f87db954722a33f
+1de44e8da621cdeb62825d367693c75e
+1fe3a2502e330432f3cf37ca7acbffac
+765f45198cb8039079a28289eab761c5
+7c0e5627fd25c40374bc22035d3fadd8
+8c2f5e7432f1e6ad22002991772d589b
+9e19fe5c3cf3e81f347dd78cf3c2e0c2
+bec44b3194c78f6e858b1768c071c5db
+ce8d77af445e3a7c7e56a6ea53af8c0d
+ebaf3c6818bfc619ca2876abd6979f6d
+ecb7af5771f4fe36a3065dc4d5516d84
+fee3db5db8817e82b1af4cedafd2f346
+
+SHA-256:
+*************
+046298b092026668cbc6e7f95b7f10c635390d07ee2f972ab58e7f1351c147b5
+5f8db56e52afdf8aa24ec471c9b3e74f34fffecf856bd486e36058a6cd089c05
+60b86c3e42e04489c85237686d7cbfd10dc203e9d18732f3b284917ae4ff7cd1
+63b0d0e0a8c243fc4d1f17bd41e803dcb12cfaaf7db45202d4a0d28cdf53e6a3
+43203543a58ed15bdaa6cf71825f26e22172de058122fb8a5bfcd0c94c45cd18
+75640afe7480656c5a9d428eeb38067bf4ced0360f54bf475bf52efdcf8779e5
+715ee22a15aa78603697f28e7b85556ac126b6d9579d919bcd8bd5fa482f937a
+7c496eaf56a2e0925c278a4cbfc5583ba0947109048412f505ef86842376c062
+40fc9af37a10960dbb405e931843d36529fed1dce832330c56b818f64652df75
+6fc49cda0396951e7cb46bfc46e56a676e23ed82b5e84b57a87b92667feaa1eb
+b4b48a0fc3473709d260c631e12315cdbe42211bc0ab20af2389789f89114e35
+94aba950387f419eba59281f5e204f893f3994130b725e8a76b5ba4f5e0d6fbc
+64df949604443682434468471120d7b1081b558f4f83f2d7dd879b1ba867e2dd
+
+Domains:
+*************
+webservice-srv[.]online
+webservice-srv1[.]online
+185[.]166[.]217[.]184
+
+Targets Country:
+**************
+Ukraine
+
+
+ATT&CK IDS:
+*************
+T1193 - Spearphishing Attachment, 
+T1204 - User Execution, 
+T1608 - Stage Capabilities, 
+T1094 - Custom Command and Control Protocol
+
+
