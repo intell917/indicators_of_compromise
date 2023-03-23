@@ -117,7 +117,7 @@ Discovery	              T1083	File and Directory Discovery	                Mispa
 Collection	            T1115	Clipboard Data	                              Mispadu captures and replaces bitcoin wallets in the clipboard.
                         T1113	Screen Capture	                              Mispadu contains a command to take screenshots.
 Command and Control	    T1024	Custom Cryptographic Protocol	                Mispadu uses a custom cryptographic protocol to protect its data.
-Exfiltration	          T1041	Exfiltration Over Command and Control Channel	Mispadu sends the data it collects to its C&C server.
+Exfiltration	          T1041	Exfiltration Over Command and Control Channel	Mispadu sends the data it collects to its C&C server. 
 
 
 
