@@ -50,11 +50,27 @@ facturaciones3[.]click
 
 
 
+TTP's:
+**********
 
-
-
-
-
+Initial Access	        T1192	Spearphishing Link	                            Mispadu spam campaigns, the victim is led to the payload by a malicious link.
+Execution	            T1085	Rundll32	                                    Mispadu banking trojan is executed by an injector that is run via rundll32.exe.
+Persistence	            T1176	Browser Extensions	                            Mispadu variant targeting Brazil utilizes a Google Chrome browser extension.
+                        T1060	Registry Run Keys / Startup Folder	            Mispadu ensures persistence by creating a link in the startup folder.
+Defense Evasion	        T1140	Deobfuscate/Decode Files or Information	        Mispadu uses encoded configuration files.
+                        T1036	Masquerading	                                Mispadu masquerades as a discount coupon.
+                        T1064	Scripting	                                    Mispadu utilizes VBS exclusively in its distribution chains.
+Credential Access	    T1056	Input Capture	                                Mispadu may execute a keylogger. Its Google Chrome extension tries to steal various sensitive information via input capturing.
+                        T1081	Credentials in Files	                        Mispadu uses other tools to extract credentials for email clients and web browsers from files.
+                        T1214	Credentials in Registry	                        Mispadu uses other tools to extract credentials for email clients and web browsers from the Windows Registry.
+Discovery	            T1083	File and Directory Discovery	                Mispadu searches for various filesystem paths in order to determine what applications are installed on the victim's machine.
+                        T1057	Process Discovery	                            Mispadu searches for various process names in order to determine what applications are running on the victim's machine.
+                        T1063	Security Software Discovery	                    Mispadu scans the system for installed security software.
+                        T1082	System Information Discovery	                Mispadu extracts the version of the operating system, computer name and language ID.
+Collection	            T1115	Clipboard Data	                                Mispadu captures and replaces bitcoin wallets in the clipboard.
+                        T1113	Screen Capture	                                Mispadu contains a command to take screenshots.
+Command and Control	    T1024	Custom Cryptographic Protocol	                Mispadu uses a custom cryptographic protocol to protect its data.
+Exfiltration	        T1041	Exfiltration Over Command and Control Channel	Mispadu sends the data it collects to its C&C server.
 
 
 
