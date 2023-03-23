@@ -121,4 +121,3 @@ Exfiltration	          T1041	Exfiltration Over Command and Control Channel	Mispa
 
 
 
-
