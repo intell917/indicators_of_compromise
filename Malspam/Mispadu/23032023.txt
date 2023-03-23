@@ -52,35 +52,35 @@ facturaciones3[.]click
 Hashes
 Brazilian campaign
 
-A4EDA0DD2C33A644FEEF170F5C24CF7595C19017	MSI installer			VBS/TrojanDownloader.Agent.RVY
-A9BADCBF3BD5C22EEB6FAF7DB8FC0A24CF18D121	Mispadu injector		Win32/Injector.EHXF
+A4EDA0DD2C33A644FEEF170F5C24CF7595C19017	MSI installer			      VBS/TrojanDownloader.Agent.RVY
+A9BADCBF3BD5C22EEB6FAF7DB8FC0A24CF18D121	Mispadu injector		    Win32/Injector.EHXF
 337892E76F3B2DF0CA851CCF4479E56EAF2DB8FD	Mispadu banking trojan 	(PE compilation timestamp 8 Sep, 2019)	Win32/Spy.Mispadu.C
 A8CD12CC0BBD06F14AA136EA5A9A2E299E450B18	Mispadu banking trojan 	(PE compilation timestamp 2 Oct, 2019)	Win32/Spy.Mispadu.C
 
 Mexican campaign
 
-CFE21DBFB97C2E93F099D351DE54099A3FC0C98B	MSI installer	VBS/TrojanDownloader.Agent.RVY
-251AC7386D1B376FB1CB0E02BDFC45472387C7BC	Mispadu injector	Win32/Injector.EHXF
-A4FC4162162A02CE6FEADFE07B22465686A0EC39	Mispadu banking trojan (PE compilation timestamp 10 Sep, 2019)	Win32/Spy.Mispadu.J
-710A20230B9774B3D725539385D714B2F80A5599	Mispadu banking trojan (PE compilation timestamp 11 Sep, 2019)	Win32/Spy.Mispadu.J
+CFE21DBFB97C2E93F099D351DE54099A3FC0C98B	MSI installer	          VBS/TrojanDownloader.Agent.RVY
+251AC7386D1B376FB1CB0E02BDFC45472387C7BC	Mispadu injector	      Win32/Injector.EHXF
+A4FC4162162A02CE6FEADFE07B22465686A0EC39	Mispadu banking trojan  (PE compilation timestamp 10 Sep, 2019)	Win32/Spy.Mispadu.J
+710A20230B9774B3D725539385D714B2F80A5599	Mispadu banking trojan  (PE compilation timestamp 11 Sep, 2019)	Win32/Spy.Mispadu.J
 
 Google Chrome extension
 
-3486F6F21034A33C5425A398839DE80AC88FECA8	Component 1 (manipulating windows)	JS/Spy.Banker.DQ
-1D19191FB2E9DED396B6352CBF5A6746193D05E8	Component 2 (credit cards)	JS/Spy.Banker.DQ
-22E6EBDFAB7C2B07FF8748AFE264737C8260E81E	Component 3 (banking and Boleto data)	JS/Spy.Banker.DQ
+3486F6F21034A33C5425A398839DE80AC88FECA8	Component 1             (manipulating windows)	JS/Spy.Banker.DQ
+1D19191FB2E9DED396B6352CBF5A6746193D05E8	Component 2             (credit cards)	JS/Spy.Banker.DQ
+22E6EBDFAB7C2B07FF8748AFE264737C8260E81E	Component 3             (banking and Boleto data)	JS/Spy.Banker.DQ
 
 Potentially unwanted applications for credential theft
 
-63DCBE2DB9CC14564EB84D5E953F2F9F5C54ACD9	Email client credential stealer	Win32/PSWTool.MailPassView.E
-8B950BF660AA7B5FB619E1F6E665D348BF56C86A	Google Chrome credential stealer	Win32/PSWTool.ChromePass.A
-F6021380AD6E26038B5629189A7ADA5E0022C313	Mozilla Firefox credential stealer	Win32/PSWTool.PassFox.F
-76F70276EB95FFEC876010211B7198BCBC460646	Internet Explorer credential stealer	Win32/PSWTool.IEPassView.NAH
+63DCBE2DB9CC14564EB84D5E953F2F9F5C54ACD9	                          Email client credential stealer	Win32/PSWTool.MailPassView.E
+8B950BF660AA7B5FB619E1F6E665D348BF56C86A	                          Google Chrome credential stealer	Win32/PSWTool.ChromePass.A
+F6021380AD6E26038B5629189A7ADA5E0022C313	                          Mozilla Firefox credential stealer	Win32/PSWTool.PassFox.F
+76F70276EB95FFEC876010211B7198BCBC460646	                          Internet Explorer credential stealer	Win32/PSWTool.IEPassView.NAH
 
 Filenames
 C:\Users\Public\%COMPUTERNAME%[1]
 C:\Users\Public\%COMPUTERNAME%[1]_
-C:\Users\Public\{winx86,libeay32,ssleay32}.dll (legitimate DLLs downloaded by the loader script; partial indicator)
+C:\Users\Public\{winx86,libeay32,ssleay32}.dll                      (legitimate DLLs downloaded by the loader script; partial indicator)
 
 Servers used
 http://18.219.25[.]133/br/mp1a{1,sq,sl,ss}.aj5
@@ -100,24 +100,24 @@ Bitcoin wallet
 TTP's:
 **********
 
-Initial Access	        T1192	Spearphishing Link	                            Mispadu spam campaigns, the victim is led to the payload by a malicious link.
-Execution	            T1085	Rundll32	                                    Mispadu banking trojan is executed by an injector that is run via rundll32.exe.
-Persistence	            T1176	Browser Extensions	                            Mispadu variant targeting Brazil utilizes a Google Chrome browser extension.
-                        T1060	Registry Run Keys / Startup Folder	            Mispadu ensures persistence by creating a link in the startup folder.
-Defense Evasion	        T1140	Deobfuscate/Decode Files or Information	        Mispadu uses encoded configuration files.
-                        T1036	Masquerading	                                Mispadu masquerades as a discount coupon.
+Initial Access	        T1192	Spearphishing Link	                          Mispadu spam campaigns, the victim is led to the payload by a malicious link.
+Execution	              T1085	Rundll32	                                    Mispadu banking trojan is executed by an injector that is run via rundll32.exe.
+Persistence	            T1176	Browser Extensions	                          Mispadu variant targeting Brazil utilizes a Google Chrome browser extension.
+                        T1060	Registry Run Keys / Startup Folder	          Mispadu ensures persistence by creating a link in the startup folder.
+Defense Evasion	        T1140	Deobfuscate/Decode Files or Information	      Mispadu uses encoded configuration files.
+												T1036	Masquerading	                            		Mispadu masquerades as a discount coupon.
                         T1064	Scripting	                                    Mispadu utilizes VBS exclusively in its distribution chains.
-Credential Access	    T1056	Input Capture	                                Mispadu may execute a keylogger. Its Google Chrome extension tries to steal various sensitive information via input capturing.
+Credential Access	      T1056	Input Capture	                                Mispadu may execute a keylogger. Its Google Chrome extension tries to steal various sensitive information via input capturing.
                         T1081	Credentials in Files	                        Mispadu uses other tools to extract credentials for email clients and web browsers from files.
-                        T1214	Credentials in Registry	                        Mispadu uses other tools to extract credentials for email clients and web browsers from the Windows Registry.
-Discovery	            T1083	File and Directory Discovery	                Mispadu searches for various filesystem paths in order to determine what applications are installed on the victim's machine.
+                        T1214	Credentials in Registry	                      Mispadu uses other tools to extract credentials for email clients and web browsers from the Windows Registry.
+Discovery	              T1083	File and Directory Discovery	                Mispadu searches for various filesystem paths in order to determine what applications are installed on the victim's machine.
                         T1057	Process Discovery	                            Mispadu searches for various process names in order to determine what applications are running on the victim's machine.
-                        T1063	Security Software Discovery	                    Mispadu scans the system for installed security software.
+                        T1063	Security Software Discovery	                  Mispadu scans the system for installed security software.
                         T1082	System Information Discovery	                Mispadu extracts the version of the operating system, computer name and language ID.
-Collection	            T1115	Clipboard Data	                                Mispadu captures and replaces bitcoin wallets in the clipboard.
-                        T1113	Screen Capture	                                Mispadu contains a command to take screenshots.
+Collection	            T1115	Clipboard Data	                              Mispadu captures and replaces bitcoin wallets in the clipboard.
+                        T1113	Screen Capture	                              Mispadu contains a command to take screenshots.
 Command and Control	    T1024	Custom Cryptographic Protocol	                Mispadu uses a custom cryptographic protocol to protect its data.
-Exfiltration	        T1041	Exfiltration Over Command and Control Channel	Mispadu sends the data it collects to its C&C server.
+Exfiltration	          T1041	Exfiltration Over Command and Control Channel	Mispadu sends the data it collects to its C&C server.
 
 
 
