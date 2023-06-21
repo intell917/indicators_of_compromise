@@ -1,0 +1,28 @@
+Spear-phishing posing as an employee of #NordVPN.
+
+References:
+1. https://nordvpn.com/blog/nordvpn-creators-scam/
+2. https://blog.didierstevens.com/my-software/
+3. https://www.virustotal.com/gui/file/12ab0f4389fb376011431b9ffc35cd90447edc980b75574b6b376ef0fd50fd59/details
+4. https://malpedia.caad.fkie.fraunhofer.de/details/win.redline_stealer
+
+
+IOC:
+*************
+
+nordvpn-media[.]com
+collaboration@nordvpn-media[.]com
+hxxps://www[.]dropbox[.]com/s/4b9cqh7oxlq4g0t/NordVPN®%20Promotional%20Materials%20June%202023[.]rar?dl=1
+
+(SHA1 hash of NordVPN® Media-Kit for YT Partners.pdf)
+a6f54e972c40ac38a958c3ee10343e49992ad1d6 
+
+(SHA1 Hash of NordVPN® Promotional Materials June 2023.rar)
+612cf3ed13976c7b20d4ae1a7832105ac1982a6e 
+
+(NORDVPN® MEDIA KIT FOR YT PARTNERS JUNE 2023.exe)
+c8c73d8a25872d0c5300cea264f92abe3993feee 
+
+
+Command & control
+176.113.115.23 (C2)
