@@ -35,3 +35,15 @@ https://posderd.000webhostapp[.]com/wp-admin/ZimbraNew.php
 https://ridddtd.000webhostapp[.]com/wp-admin/ZimbraNew.php
 https://tmaxd.000webhostapp[.]com/wp-admin/ZimbraNew.php
 https://zimbra.y2kportfolio[.]com/wp/wp-admin/ZimbraNew.php
+
+
+Tactic	                  ID	            Name
+********************************************************
+Resource Development	    T1586.002	      Compromise Accounts: Email Accounts
+	                        T1585.002	      Establish Accounts: Email Accounts
+
+Initial Access	          T1566.001	      Phishing: Spearphishing Attachment
+Execution	                T1204.002	      User Execution: Malicious File
+Persistence	              T1136	          Create Account
+Collection	              T1056.003	      Input Capture: Web Portal Capture
+Exfiltration	            T1048.002	      Exfiltration Over Alternative Protocol: Exfiltration Over Asymmetric Encrypted Non-C2 Protocol
