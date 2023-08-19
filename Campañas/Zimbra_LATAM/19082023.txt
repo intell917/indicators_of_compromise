@@ -3,6 +3,7 @@ IOC:
 
 IPs:
 *******
+
 145.14.144[.]174
 145.14.145[.]248
 145.14.145[.]122
@@ -14,7 +15,6 @@ IPs:
 
 Domain:
 *******
-
 
 fmaildd.000webhostapp[.]com
 nmailddt.000webhostapp[.]com
