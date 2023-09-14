@@ -1,0 +1,29 @@
+IP  				        Etiqueta de sistema autónomo 
+45.137.22.149  		  RootLayer Web Services Ltd. 
+92.42.36.95  		    EUROTA INTERNET SERVICES LTD 
+185.121.120.179  	  Serverion BV 
+162.241.205.153   	Unified Layer 
+45.137.22.147  		  RootLayer Web Services Ltd. 
+91.212.89.57  		  UZINFOCOM State Unitary Enterprise 
+186.65.73.138  		  Adexus S.A. 
+45.87.60.140    	  Hyonix 
+103.145.254.33    	MAINT-VN-VNNIC 
+77.247.110.104  	  PEENQ.NL
+66.36.234.110   	  HopOne Internet Corporation 
+103.99.1.238    	  MAINT-VN-VNNIC 
+31.210.21.71  		  Serverion BV 
+45.170.245.119  	  ZEROPING  S. DE R.L. DE C.V. 
+104.47.33.54   		  Microsoft Corporation 
+162.241.211.105   	Unified Layer 
+181.119.65.95  		  IFX Networks Argentina S.R.L. 
+104.47.56.48   		  Microsoft Corporation 
+31.210.20.250  		  Serverion BV 
+31.210.21.247  		  Serverion BV 
+185.222.58.100    	bd-rootlayer-1-mnt 
+185.29.8.26  		    DataClub S.A. 
+190.15.202.141  	  Informática y Telecomunicaciones S.A. 
+103.156.92.46    	  MAINT-VN-VNNIC 
+45.137.22.52  		  RootLayer Web Services Ltd. 
+185.121.120.245  	  Serverion BV 
+153.122.55.69    	  MAINT-JPNIC 
+185.222.57.174    	bd-rootlayer-1-mntB8B2:B28B1:B28
