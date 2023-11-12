@@ -1,0 +1,11 @@
+## RURAT campaña Brasil - LATAM ##
+
+IP
+
+192.185.213.16:587
+154.61.71.13
+213.226.123.14
+
+HASH
+
+33e4a1c32d23b9355e797daa1c2a76fd2ee4ecff9d4fa0bc9021cb49e37c570d
