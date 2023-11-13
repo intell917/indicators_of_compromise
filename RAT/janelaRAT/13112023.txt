@@ -1,0 +1,28 @@
+# Gracias a la investigación de 0xToxin (https://gist.github.com/0xToxin) #
+# Referencia: https://twitter.com/0xToxin/status/1723975159130779963 #
+# Rotating keywords C2's list: https://gist.github.com/0xToxin/c5c6f91908d9dcb2f872d5b4d21f40be #
+
+URL
+
+- https://www.dropbox.com/scl/fi/lgetw3im84cd1ova67yjx/6993img_logs.zip?rlkey=jtfjdh3ls63ttx81ea5fcgwu0&dl=1
+- www.lettsplay.org.es/downloads/
+
+- Panel C2: pegapombo.serveftp.com
+
+HASH
+
+7284eb054e45cce7661160cd3280213c399e2be7e2425a7f75f806ce9f3c8f21
+6e119fce896c28ccb53e4f03ce827f91d2adc07f593aba2671bda39afb4ba1c5
+5dd72236be3ec2c844aa4d33f9dea29884b78adf0d27ae6acdde08f7212a175d
+92cf1346287dc38bf9258976ef5fab4c746baad83d860581571135a5b97b76c8
+05cb6de8190a1f016694e92e9481cc5e7566e1f7dd3a951fa87158b089a6903c
+71af3b1eb3b6593a5c01b0582c07a8ba6d92a780d1c0b9ef02bea1ad008d98ee
+a5e269f324855a312e7290af729df851ad8d97c3eba60ae630ad72a42e9345f7
+2750bcbc271a24b8c7438bd11e804f3d913d1a89a6f652b2cb48a766c7cde05e
+07f0f1a3fcaf30f9745eb03ac4f379d154b307b969955a8e0532a251c1914cc8
+
+
+TELEGRAM BOTS
+
+bot6404944800:AAEKfuS5zgMDUrVzHXcFXvXaXVnV79D7lGE
+bot6853349861:AAHitKg_BQqP4XNubQXblsjyuoJE7zP8smQ
