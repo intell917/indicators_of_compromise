@@ -1,0 +1,24 @@
+IOCs
+unmi.sh
+070128a5b4e1aecb61b59f3f8ef2602e63cd1e5357f1314080a7c8a4960b0bee
+
+modularseven-1.0/modularseven/processor.py
+4b439d8cabc5e4ad593a26065e6d374efdddf41c8d91744b077a69812df170d2
+
+driftme-1.0/driftme/processor.py        
+687fb012479e563be63e02718eb7be7ee81974193c952777ca94234c95b25115
+
+catme-1.0/catme/processor.py            
+235b1ad3d21e7330d421c9a03b6b822fcdddacaa707bed9d67dabd43d4401fc6
+
+tmp/X
+df0211bf54174b5766366eecfb0a04c4a59346478e1507b6685fbaed6b2d2aca
+
+XLM:GA2DR34VWSXPIE2JFDUZFEIROMXRFYUYNB2XD5JWKPD2TWELUJQZ4WCW.WORKER
+
+
+
+Malicious URLs
+hxxps[:]//papiculo[.]net/unmi[.]sh
+hxxps[:]//papiculo[.]net/unmiconfig[.]json
+hxxps[:]//gitlab[.]com/ajo9082734/Mine/-/raw/main/X
