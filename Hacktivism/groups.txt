@@ -1,0 +1,166 @@
+1. Pro-Israel Hacktivists/Groups
+
+Anonymiss
+Anonymous India
+Anonymous Israel
+AresLeaks
+Arvin
+Cyber Club (Support)
+Dark Cyber Worrior
+Garuna Ops
+Gaza parking lot crew
+GlorySec
+GonjeshkeDarande
+ICD- Israel Cyber Defense
+Indian Cyber Force
+Indian Darknet Association
+IT ARMY of Ukraine
+Kerala Cyber Thunders
+Kerala Cyber Xtractors
+Silencers_of_evil
+SilentOne
+Team NWH Security
+TeamHDP
+Termux Israel
+UCC Team
+
+2. Pro-Gaza Hacktivists/groups
+
+4 Exploitation
+1915 Team
+./CsCrew
+./Tea Party
+Aceh About Hacked World
+AnoaGhost
+AnonHamz
+AnonT13x Group
+Anonymous 070
+Anonymous Indonesia
+Anonymous Morocco
+Anonymous Russia
+Anonymous Sudan
+Arab Anonymous Team
+ASKAR DDOS
+Awham
+Bandung Cyber Team
+Bangladesh Civilian Force
+Black Security Team
+Blackshieldcrew MY
+Boom Security
+Cubjrnet7
+Cscrew
+Cyb3r Dragonz Team
+Cyber Error Team
+Cyb3r Gang
+Cyber Sederhana Team
+CyberActivism
+Dark Storm Team
+DumpDataBase
+Dragonforce Malaysia
+Eagle Cyber Crew
+Electronic Tigers Unit
+End Sodama
+Esteem Restoration Eagle
+F7 Xpl0it3r
+Fr3dens of Security
+Ganosec team
+Garnesia Team
+Gb Anon 17
+Ghost Clan Malaysia
+GhostClan
+Ghost Hunter Illusion
+GhostSec
+Hacktivism Indonesia
+Hizbullah Cyb3r Team
+IndoGhostSec
+Islamic Cyber team | Indonesia
+islamic hacker army
+Jateng Cyber Team
+JATIM RedStorm Xploit
+KEP TEAM
+khalifah cybercrew
+Khan cyber Army
+KillNet
+Kingman world official
+Kuningan Exploiter
+LGH
+Malaysia cyber defacer
+MeshSec
+Milad Hacking
+M.H.T
+Moroccan Black Cyber Army
+Moroccan Defenders Group
+MrWanz
+Muslim Cyber Army
+Mysterious Team Bangladesh
+xNot_RespondinGx
+Pakistan Cyber Hunter
+Pakistani Leet Hackers
+Panoc team
+Royal Battler BD
+Russian tools
+Siber Team
+Siegedsec
+Skynet
+StarsX Team
+Storm-1133
+Stucx Team
+Sukowono Blackhat Team
+Sylhet Gang-SG
+Synix CyberCrimeMY
+Systemadminbd Official (BCF)
+Team Anon Force
+Team Azrael Angel of Death
+Team Herox
+The key40
+Team R70
+Team R
+Team_insane_Pakistan
+Teng Korak Cyber Crew
+The Ghost Squad
+The White Crew
+Toyonzade
+Turk Hack Team
+TYG Team
+UserSec
+VulzSec
+WeedSec
+x7root
+Yemen Legions Team
+YourAnon T13x
+
+3. Groups targeting other countries that are supporting Israel
+
+Anonghost
+Cyber Av3ngers
+Deltaboys
+GhostSec
+Ghosts of Palestine
+Killnet
+Storm-1133
+Neutral Groups
+Cyber Army Of Russia
+DUNIA MAYA TEAM
+KromSec
+ThreatSec
+
+4. APTs
+
+Given how APT groups usually operate, we have not observed any confirmed activity yet. 
+However, it is highly likely that they will attempt to take advantage of the situation to carry out more sophisticated attacks than we have seen so far from other groups. 
+Below is a list of groups that have a history of targeting Israel:
+
+DEV-0270
+Arid Viper, APT-C-23
+POLONIUM
+DEV-0133
+DEV-0227
+DEV-0343
+Storm-1084
+RUBIDIUM
+APT32
+APT33
+APT34
+APT35
+APT39
+Moses Staff
