@@ -1,0 +1,14 @@
+Initial URL:
+https://net.pascal.studio/
+
+Redirect: 
+https://amp.invigorgroup.com/mal/
+
+Final URL:
+https://amp.invigorgroup.com/mal/omgserv-789652/
+
+Hosting Site:
+62.4.16.133
+
+Second Phishing identificated on hosting:
+https://netflix-updateid.tk
