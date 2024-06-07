@@ -1,0 +1,20 @@
+###################################################
+# SOURCES:                                        #
+# https://x.com/1ZRR4H/status/1798735303286685905 #
+# https://x.com/1ZRR4H/status/1799137435432939892 #
+###################################################
+
+*** CAMPAÑA DISTRIBUCIÓN REMCOS RAT VÍA GITHUB ***
+
+
+- https://github[.]com/ustaxes/UsTaxes/files/15421286/2022and2023TaxDocuments[.]zip
+- https://github[.]com/ustaxes/UsTaxes/files/15419438/2023TaxDocuments[.]zip
+- https://github[.]com/PolicyEngine/policyengine-us/files/15487603/2023.TAX.ORGANIZER.pdf[.]zip
+- https://github[.]com/hmrc/claim-tax-refund/files/15487332/TaxrefundlistPDF[.]zip
+- https://github[.]com/user-attachments/files/15592343/Rachel.Completed.Organizer.Season.TAX.2023[.]zip
+
+Remcos C2 servers:
+- pattreon.duckdns[.]org:7035
+- deytrycooldown.duckdns[.]org:7070
+- newlink.duckdns[.]org:5111
+* Botnet: RemoteHost
