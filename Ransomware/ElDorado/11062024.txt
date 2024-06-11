@@ -1,0 +1,14 @@
+= ===============================================================================
+= IOC: El Dorado Ransomware                                                     =
+= Fuente: https://x.com/RakeshKrish12/status/1800479631507915095                =
+= Backup: https://web.archive.org/web/20240611140630/https://justpaste.it/cr48j =
+=================================================================================
+
+TOR Domain: dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion
+MD5: 9d1fd92ea00c6eef88076dd55cad611e
+SHA-1: a108c142dba8c9af5236ec64fe5a1ce04c54a3fb
+SHA-256: 8badf1274da7c2bd1416e2ff8c384348fc42e7d1600bf826c9ad695fb5192c74
+MD5: 315a9d36ed86894269e0126b649fb3d6
+SHA-1: caaa1f85dd333c9d19767b5de527152d5acbc2a4
+SHA-256: cb0b9e509a0f16eb864277cd76c4dcaa5016a356dd62c04dff8f8d96736174a7
+IP: 173.44.141.152
