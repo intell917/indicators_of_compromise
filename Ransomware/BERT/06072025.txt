@@ -1,0 +1,23 @@
+Indicators of Compromise (IoC)		
+SHA256	Detection	Description
+1ef6c1a4dfdc39b63bfe650ca81ab89510de6c0d3d7c608ac5be80033e559326	PUA.Win32.DefenderControl.B	Tool used to disable antivirus protection
+70211a3f90376bbc61f49c22a63075d1d4ddd53f0aefa976216c46e6ba39a9f4	PUA.Win64.ProcHack.B	Process Hacker binary used for process manipulation
+75fa5b506d095015046248cf6d2ec1c48111931b4584a040ceca57447e9b9d71	Ransom.MSIL.TREB.YPFDUT	BERT ransomware (Windows binary, new variant)
+8478d5f5a33850457abc89a99718fc871b80a8fb0f5b509ac1102f441189a311	Ransom.MSIL.TREB.SMYPFDUT	BERT ransomware (Windows binary)
+b2f601ca68551c0669631fd5427e6992926ce164f8b3a25ae969c7f6c6ce8e4f	Trojan.PS1.POWLOAD.THEBIBE	PowerShell script that downloads and executes BERT ransomware
+bd2c2cf0631d881ed382817afcce2b093f4e412ffb170a719e2762f250abfea4	PUA.Win64.ProcHack.YACIU	Alternate Process Hacker binary variant
+c7efe9b84b8f48b71248d40143e759e6fc9c6b7177224eb69e0816cc2db393db	Ransom.Linux.TREB.THDBEBE	BERT ransomware (Linux variant)
+hxxp://185[.]100[.]157[.]74/payload[.]exe		Download link
+
+TTP
+Technique	ID
+Command and Scripting Interpreter: PowerShell	T1059.001
+Impair Defenses: Disable or Modify Tools	T1562.001
+Impair Defenses: Disable or Modify System Firewall	T1562.004
+Abuse Elevation Control Mechanism: Bypass User-Account Control	T1548.002
+File and Directory Discovery	T1083
+Virtual Machine Discovery	T1673
+Process Discovery	T1057
+Data Encrypted	T1486
+Data Destruction	T1485
+Inhibit System Recovery	T1490
