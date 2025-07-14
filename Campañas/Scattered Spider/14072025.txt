@@ -36,3 +36,13 @@ ads[.]msicrosoft[.]com
 sso3[.]msicrosoft[.]com
 sci[.]msicrosoft[.]com
 winsscp[.]org
+
+
+
+URL identificadas en archivo Watch de https://log.www-mlcrosoft.com
+
+https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg
+https://i.ytimg.com/vi/dQw4w9WgXcQ
+
+Redirige a Sitio legítimo de un video en Youtube (como meme) 
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
