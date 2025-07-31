@@ -1,0 +1,62 @@
+Body Hash: a7fe83ec64bb23eb28090598db3d166ed98e52e39d1afbbfd74c579553f93e4e
+
+IP:
+34.41.139.193
+185.208.156.251
+
+URL :
+*************
+
+https://bjd3ek.cc/
+https://hpn8ke.cc/
+https://stop-radar.shop/
+https://okta-ziffdavis.com/
+https://anti-shtraf.shop/
+https://northbalihotelforsale.com/
+https://hazelwadham.dev/
+https://bhh7mn.cc/
+https://radar-detektor.store/
+https://webmtsn2jembrana.pages.dev/
+https://kanmunculdipanen77.pages.dev/
+https://canceldata.technology/
+https://s.viiequgl.com/
+https://insurverse-uat-environment-landingpage.insurverse.co.th/
+https://onedollarplatano.com/
+https://votezgpt.fr/
+https://elitewestend.vacations/
+https://beytransport.com/
+https://serenitysonoran.vacations/
+https://icloud-irecovermodes.help/
+https://beta.doublecounter.gg/v/s8452wd3
+https://canlitvnews.xyz/
+https://jjzkan303.xyz/
+https://jjzkan305.xyz/
+https://jjzkan300.xyz/
+https://buddhayanacentermojokerto.site/
+https://dwfdadadas.xyz/
+https://tranquilbear.rentals/
+https://saltwaterfalls.villas/
+https://broadavehouse.house/
+
+
+Dominios maliciosos:
+***********************
+okta-ziffdavis[.]com
+activecampiagn[.]net
+pfchangs-support[.]com
+x-sso[.]com
+corp-asurion[.]com
+sendgr[.]id-unlink[.]com
+klv1[.]it[.]com 
+
+
+
+Proveedores y ASNs usados para infraestructura/hosting:
+
+ASN	Hosting Provider	Uso común
+14061	DIGITALOCEAN-ASN, US	VPS
+20473	AS-CHOOPA, US (Vultr)	VPS
+399629	BLNWX, US (BitLaunch)	VPS/privacy
+13335	Cloudflare, Inc.	Proxying
+57043	HOSTKEY-AS, NL	VPS/cloud
+
