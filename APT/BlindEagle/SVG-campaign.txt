@@ -1,4 +1,5 @@
 //HASH Archivos SVG no detectados por antivirus y que ejecutan primera etapa de infección//
+// Ref: https://blog.virustotal.com/2025/09/uncovering-colombian-malware-campaign.html//
 
 MD5                               SHA1                                      SHA256
 6869a149d91b7d6cbb73a8febd19b95f, fe4ed5b8833973dbecbe701554713f9bddcdbb35, a2ec7814a5db0a4c476dcfe214fff552a3c5495d8213ee5b1d93c7e083d8a8e5
